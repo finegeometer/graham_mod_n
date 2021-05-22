@@ -1,0 +1,10 @@
+[package]
+name = "graham_mod_n"
+version = "0.1.0"
+authors = ["finegeometer"]
+edition = "2018"
+description = "Calculates Graham's number modulo the first billion integers."
+readme = "README.md"
+
+[dependencies]
+bytemuck = "1.5"
